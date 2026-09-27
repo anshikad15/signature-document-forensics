@@ -1,0 +1,14 @@
+opencv-python-headless>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+scipy>=1.11.0
+pytesseract>=0.3.10
+PyPDF2>=3.0.0
+PyMuPDF>=1.23.0
+imagehash>=4.3.1
+
+# System dependency (install separately, not via pip):
+#   Tesseract OCR engine
+#   macOS:   brew install tesseract
+#   Ubuntu:  sudo apt-get install tesseract-ocr
+#   Windows: https://github.com/UB-Mannheim/tesseract/wiki
